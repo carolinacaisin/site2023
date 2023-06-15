@@ -37,8 +37,6 @@
             <a href="https://www.youtube.com/watch?v=afRVhVrELvQ" class=" btn-1"> Read More</a>
 
         </div>
-
-
         <section class="about" id="About">
             <h2 class="sub-text">About us</h2>
             <h1 class="text">Welcome to SweetArt Cakes</h1>
@@ -66,8 +64,6 @@
                             <i class="fas fa-headset"></i>
                             <span>sună gratuit</span>
                         </div>
-
-
                     </div>
 
                     <a href="{{ route('about') }}" class="btn2">vezi mai mult</a>
