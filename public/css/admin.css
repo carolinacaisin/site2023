@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.main-nav{
+    display: flex;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 50px;
+    background-color: black;
+}
+.main-nav a{
+    text-decoration: none;
+    color: white;
+    line-height: 30px;
+    display: block;
+    padding: 5px 15px;
+}
+.main-nav a:hover{
+    text-decoration: underline;
+}
+footer{
+    height: 200px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
